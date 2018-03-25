@@ -26,7 +26,18 @@ After cloning this project to your desired directory[Windows: C:~/xampp/htdocs ,
 After finishing the steps above, you will need to run the app on your local machine.  
 -> Go into your browser and type _localhost/next-bus-dashboard_.  
 -> If all was done successfully, you will find a login page.   
--> Use agency as username and test as password.  
+ The dashboard accepts 3 usertypes, below is their username, password and role respectively
+ 1) username: traffic
+    password: test
+    role: View journey and set status to closed or opened to inform agencies
+ 2) username: agency
+    password: test
+    role: Add drivers, assign driver to route and view journey info
+ 3) username: administrator
+    password: test
+    role: Sets up the system, and manages the landing page. 
+
+NOTE: To avoid hardship during installation, you may visit the system on this link: https://next-bus-dashboard.herokuapp.com               
   
 There you go, every thing done well.  
 ### Contribution guidelines ###  
