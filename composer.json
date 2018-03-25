@@ -1,0 +1,21 @@
+{
+     "name": "Next Bus Dashboard",
+     "version": "0.3.3",
+     "description":"Next Bus traffic and route management",
+     "authors": [
+        {
+            "name": "Hack Orient",
+            "email": "davejuelz@gmail.com",
+            "homepage": "https://next-bus-dashboard.herokuapp.com/",
+            "role": "Hackthon pioneers"
+        }
+    ],
+  "require": {
+    "ext-mysql": "*",
+    "ext-gettext": "*",
+    "ext-mbstring":"*"
+  },  
+   "require-dev": {
+      "heroku/heroku-buildpack-php": "*"
+   }
+}
