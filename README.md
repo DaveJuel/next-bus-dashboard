@@ -1,11 +1,11 @@
 # README #
 
-This file is to instruct you installing and successfully running Addax.
+This file is to instruct you installing and successfully running Next Bus Dashboard.
 
 ### What is this repository for? ###
 
-* Addax is a web content management application. It web based.
-* Version 1.0.0 beta
+* Next Bus Dashboard is a next bus app dashboard, to help agency and traffic police manage public transportation.
+* Version 1.0.0 Unreleased
 
 ### INSTALLATION PREREQUISITES ###
 
@@ -18,15 +18,15 @@ After cloning this project to your desired directory[Windows: C:~/xampp/htdocs ,
   
 * Configure the database  
 -> In DB management app (eg:phpmyadmin, workbench,...), create a database.   
--> Import the database(addax.sql) from Addax root folder, to your newly created database.  
--> Go into ~/addax/admin/includes and open file 'config.php' change your local connection values respective to your settings.
+-> Import the database(next-bus.sql) from next-bus-dashboard root folder, to your newly created database.  
+-> Go into ~/next-bus-dashboard/admin/includes and open file 'config.php' change your local connection values respective to your settings.
 -> Change to database connection respective to your mysql configurations on line 9.  
 
 * Run the application  
 After finishing the steps above, you will need to run the app on your local machine.  
--> Go into your browser and type _localhost/addax_.  
+-> Go into your browser and type _localhost/next-bus-dashboard_.  
 -> If all was done successfully, you will find a login page.   
--> Use admin as username and test as password.  
+-> Use agency as username and test as password.  
   
 There you go, every thing done well.  
 ### Contribution guidelines ###  
@@ -39,4 +39,4 @@ There you go, every thing done well.
 ### Who do I talk to? ###  
 In case you need help!  
   
-* David NIWEWE[phone:+250788353869 , email:davejuelz@gmail.com ]
+* Hack Orient[phone:+250788353869 , email:davejuelz@gmail.com ]
