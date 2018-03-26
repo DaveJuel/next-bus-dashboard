@@ -60,6 +60,6 @@
         <script src="../js/modern.min.js"></script>
         <script src="../js/interface.js"></script>
         <script src="../js/main.js"></script>
-
+        <script type="text/javascript" src="../../js/tawkChat.js"></script>
     </body>
 </html>
