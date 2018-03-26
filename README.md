@@ -50,4 +50,4 @@ There you go, every thing done well.
 ### Who do I talk to? ###  
 In case you need help!  
   
-* Hack Orient[phone:+250788353869 , email:davejuelz@gmail.com ]
+* Next Bus[phone:+250788353869 , email:davejuelz@gmail.com ]
